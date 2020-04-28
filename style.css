@@ -1,0 +1,22 @@
+/* navbar styling */
+ul {
+  list-style-type: none;
+}
+.bigBar{
+  display: inline-block;
+  /* border: 2px solid black; */
+  width: 70%;
+}
+.bigBar a {
+  padding: 10px 15px;
+  text-align: center;
+  color: rgb(14, 10, 10);
+  text-decoration: none;
+  float: right;
+  width: 10%;
+  background: hsl(204, 88%, 66%); 
+}
+h1
+{
+    text-align: center;
+}
