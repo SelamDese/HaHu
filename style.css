@@ -1,3 +1,46 @@
+
+
+.numberSection > ul li
+{
+  font-size: 40px;
+  text-align: center;
+}
+@media only screen and (min-width: 500px) {
+  h2 {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  table tr {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  table tr {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  img.hahuImg {
+    height: 600;
+    width: 600;
+    background-color: blue;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  img.hahuImg{
+    height: 10;
+    width: 10;
+    background-color: crimson;
+  }
+}
+
+
+
 /* navbar styling */
 ul {
   list-style-type: none;
